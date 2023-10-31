@@ -1,4 +1,4 @@
-# 3D Images Denoising with Unpaired Reference
+# 3D Images Denoising with Unpaired Reference Image
 This project descibes the codes for 3D C-scan data corss-sectional profile denosing model training program.
 
 The each cross-sectional images are denoised in the following step
